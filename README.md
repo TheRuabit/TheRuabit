@@ -8,6 +8,4 @@ Welcome to my little corner of GitHub.
 
 ---
 
-<p align="center">
-  <img src="/github-metrics.svg" alt="GitHub metrics for TheRuabit">
-</p>
+<img src="/github-metrics.svg" alt="GitHub metrics for TheRuabit">
