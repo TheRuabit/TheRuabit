@@ -9,9 +9,9 @@ Welcome to my little corner of GitHub.
 ---
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="GitHub metrics for TheRuabit">
+  <img src="/github-metrics.svg" alt="GitHub metrics for TheRuabit" width="100%">
 </p>
 
 <p align="center">
-  <img src="/github-languages.svg" alt="Most-used programming languages by TheRuabit">
+  <img src="/github-languages.svg" alt="Most-used programming languages by TheRuabit" width="100%">
 </p>
